@@ -1,0 +1,5 @@
+Project 2: 
+"Magic" calculator working with numbers given in the binary system. It realises addition, substraction, multiplication and division. 
+An user should type in: a first number, a second number and an operation which the calculator should do.
+Moreover there is a random number. If the number is even, then the program displays correct result of a particular operation. Otherwise the program displays this random number.
+Date: 12/03/2019

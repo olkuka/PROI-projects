@@ -1,2 +1,2 @@
 # PROI-projects
-(Warsaw University of Technology) Object Oriented Programming in C++
+(Warsaw University of Technology) Object-oriented programming in C++
